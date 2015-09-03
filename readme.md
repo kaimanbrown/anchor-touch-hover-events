@@ -1,0 +1,1 @@
+## Javascript class for allowing a double click for touch events on anchor tags that have hover events with important content on them
